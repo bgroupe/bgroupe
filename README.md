@@ -2,7 +2,7 @@
 
 <img src="bgroupe-logo.svg" height="320px" width="320px"/>
 
-(casey)
+### (casey)
 
 - I work here www.peek.com
 - contact me here: casey@bgroupe.dev
