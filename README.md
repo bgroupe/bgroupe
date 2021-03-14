@@ -5,5 +5,5 @@
 (casey)
 
 - I work here www.peek.com
-- contact me here: casey@bgroupe.dev ...
+- contact me here: casey@bgroupe.dev
 - I blog here: https://medium.com/@bgroupe
